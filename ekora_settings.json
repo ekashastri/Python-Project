@@ -1,0 +1,18 @@
+{
+  "camera_mode": "dark_overlay",
+  "show_landmarks": false,
+  "fps_limit": 60,
+  "camera_resolution": "1280x720",
+  "theme": "light",
+  "auto_save": false,
+  "auto_save_interval": 300,
+  "default_brush_size": 18,
+  "default_brush_color": [
+    80,
+    180,
+    255
+  ],
+  "recent_files": [
+    "C:/Users/ekash/Downloads/Sample 1.ekora"
+  ]
+}

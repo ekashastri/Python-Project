@@ -1,0 +1,30 @@
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+
+# Application specific
+.test_autosave
+.autosave.ekora*
+saves/
+logs/
+exports/
+*.svg
+*.png
+*.jpg
+*.jpeg
+*.pdf
